@@ -467,12 +467,14 @@ h3 {
   background-color: #ffffff;
   font-size: 26px;
   transition: 0.3s;
+  cursor: pointer;
 }
 .Collapse:hover {
   background-color: #eeeeee;
   color: #896EB1;
   transition: 0.3s;
-}
+  cursor: pointer;
+  }
 .Collapsed {
   font-family: "sharpSans-Semibold";
   margin-top: 10vh;

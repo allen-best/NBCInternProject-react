@@ -51,7 +51,7 @@ export default class Carousel extends React.Component {
     return (
       <CarouselProvider
         naturalSlideWidth={100}
-        naturalSlideHeight={80}
+        naturalSlideHeight={100}
         totalSlides={41}
         interval={1000}
         isPlaying={true}
